@@ -14,6 +14,7 @@ def sphere(particle):
 
     return _sum
 
+
 def greiwank(particle):
     """
     sphere is an objective function used to test
@@ -25,6 +26,7 @@ def greiwank(particle):
         Calculated value of objective function.
     """
     pass
+
 
 def rastrigin(particle):
     """
@@ -38,6 +40,7 @@ def rastrigin(particle):
     """
     pass
 
+
 def ackley(particle):
     """
     sphere is an objective function used to test
@@ -49,6 +52,7 @@ def ackley(particle):
         Calculated value of objective function.
     """
     pass
+
 
 def rosenbrock(particle):
     """
@@ -62,6 +66,7 @@ def rosenbrock(particle):
     """
     pass
 
+
 def schwefel(particle):
     """
     sphere is an objective function used to test
@@ -73,6 +78,7 @@ def schwefel(particle):
         Calculated value of objective function.
     """
     pass
+
 
 def michalewicz(particle):
     """
@@ -86,6 +92,7 @@ def michalewicz(particle):
     """
     pass
 
+
 def dejong(particle):
     """
     sphere is an objective function used to test
@@ -97,6 +104,7 @@ def dejong(particle):
         Calculated value of objective function.
     """
     pass
+
 
 def step(particle):
     """
@@ -110,6 +118,7 @@ def step(particle):
     """
     pass
 
+
 def levy(particle):
     """
     sphere is an objective function used to test
@@ -121,6 +130,7 @@ def levy(particle):
         Calculated value of objective function.
     """
     pass
+
 
 def circle(particle):
     """
@@ -134,6 +144,7 @@ def circle(particle):
     """
     pass
 
+
 def cosine_mixture(particle):
     """
     sphere is an objective function used to test
@@ -145,6 +156,7 @@ def cosine_mixture(particle):
         Calculated value of objective function.
     """
     pass
+
 
 def exponential(particle):
     """
